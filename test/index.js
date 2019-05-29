@@ -132,3 +132,4 @@ function uniq(array){
 
 var aa = [1,2,2,3,5,3,6,5];
 console.log(uniq(aa));
+console.log('new')
